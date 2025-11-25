@@ -3,7 +3,10 @@
 I'm a **Computer Science student** at **Sapienza University of Rome**.
 I have a strong interest in databases, networks, software development, and web apps.
 
+👉[GitHub Pages](https://matteogeusa.github.io)
 ---
+
+
 
 ### 🛠️ Languages and Tools
 
@@ -25,6 +28,6 @@ I have a strong interest in databases, networks, software development, and web a
 - My university projects at Sapienza.
 
 ### 📫 How to reach me
-- 💼 Telegram: @Matteo_Developer
+- 💼 [Telegram](https://t.me/Matteo_Developer)
 
-👉[GitHub Pages](https://matteogeusa.github.io)
+
