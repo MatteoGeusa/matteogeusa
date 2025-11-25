@@ -27,4 +27,4 @@ I have a strong interest in databases, networks, software development, and web a
 ### 📫 How to reach me
 - 💼 Telegram: @Matteo_Developer
 
-👉[GitHub Pages](https:/matteogeusa.github.io/)
+👉[GitHub Pages](https://matteogeusa.github.io)
