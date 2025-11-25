@@ -4,7 +4,7 @@ I'm a **Computer Science student** at **Sapienza University of Rome**.
 I have a strong interest in databases, networks, software development, and web apps.
 
 ⬇️ Check my personal portfolio ⬇️ 
-- **🔗 [matteogeusa.it](https://matteogeusa.github.io)**
+- **[matteogeusa.it](https://matteogeusa.github.io)**
 
 
 
@@ -26,7 +26,7 @@ I have a strong interest in databases, networks, software development, and web a
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔭 I’m currently working on ...
-- My university projects at Sapienza.
+- My university projects at Sapienza (Rome).
 
 ### 📫 How to reach me
 - 💼 [Telegram](https://t.me/Matteo_Developer)
