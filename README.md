@@ -3,7 +3,7 @@
 I'm a **Computer Science student** at **Sapienza University of Rome**.
 I have a strong interest in databases, networks, software development, and web apps.
 
-👉[GitHub Pages](https://matteogeusa.github.io)
+🔗 [GitHub Pages](https://matteogeusa.github.io)
 ---
 
 
