@@ -29,6 +29,6 @@ I have a strong interest in databases, networks, software development, and web a
 - My university projects at Sapienza (Rome).
 
 ### 📫 How to reach me
-- 💼 [Telegram](https://t.me/Matteo_Developer)
+- 💼 [Telegram](https://t.me/matteogeusa)
 
 
